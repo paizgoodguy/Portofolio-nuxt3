@@ -40,7 +40,7 @@
                 <div class="flex w-full flex-col space-y-4 ">
                   <div class="h-full rounded-lg overflow-hidden hover:scale-125 hover:z-10 hover:duration-300 hover:ease-out duration-200 entering4">
                     <img
-                      src="@assets/img/Shrine_lamp.png"
+                      src=""
                       alt=""
                       style="position: relative; top: -1rem"
                       class="hover:absolute"
