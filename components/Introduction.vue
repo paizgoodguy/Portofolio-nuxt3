@@ -11,7 +11,7 @@
             <div class="flex">
               <div class="flex-1 bg-gray-200 shadow-inner rounded-lg">
                 <img
-                  src="~/assets/img/wujudsaya.png"
+                  src="@/assets/img/wujudsaya.png"
                   class="object-scale-down h-96 w-full"
                   alt=""
                 />

@@ -20,7 +20,7 @@
               <div class="flex flex-wrap items-center justify-center">
                 <div class="flex-none w-28">
                   <img
-                    src="~/assets/img/vue.png"
+                    src="@/assets/img/vue.png"
                     class="object-scale-down h-16 w-28"
                     alt=""
                   />
@@ -34,7 +34,7 @@
               <div class="flex flex-wrap items-center justify-center">
                 <div class="flex-1">
                   <img
-                    src="~/assets/img/Nuxt.png"
+                    src="@/assets/img/Nuxt.png"
                     class="object-scale-down h-16 w-28"
                     alt=""
                   />
@@ -48,7 +48,7 @@
               <div class="flex flex-wrap items-center justify-center">
                 <div class="flex-1">
                   <img
-                    src="~/assets/img/Vuetify.webp"
+                    src="@/assets/img/Vuetify.webp"
                     class="object-scale-down h-16 w-28"
                     alt=""
                   />
@@ -65,7 +65,7 @@
               <div class="flex flex-wrap items-center justify-end mr-10">
                 <div class="flex-none">
                   <img
-                    src="~/assets/img/Bootstrap.png"
+                    src="@/assets/img/Bootstrap.png"
                     class="object-scale-down h-16 w-28"
                     alt=""
                   />
@@ -79,7 +79,7 @@
               <div class="flex flex-wrap items-center">
                 <div class="flex-none">
                   <img
-                    src="~/assets/img/Tailwind.png"
+                    src="@/assets/img/Tailwind.png"
                     class="object-scale-down h-16 w-28"
                     alt=""
                   />

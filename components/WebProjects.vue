@@ -15,7 +15,7 @@
                   ></div>
                   <div class="h-96 rounded-lg overflow-hidden hover:scale-125 hover:z-10 hover:duration-300 hover:ease-out duration-200 entering2">
                     <img
-                      src="~/assets/img/bunga.jpeg"
+                      src="@/assets/img/bunga.jpeg"
                       class=""
                       style="position: relative; top: -5rem"
                       alt=""
@@ -29,7 +29,7 @@
                   ></div>
                   <div class="h-40 rounded-lg overflow-hidden hover:scale-125 hover:z-10 hover:duration-300 hover:ease-out duration-200 entering3">
                     <img
-                      src="~/assets/img/chair_TG.png"
+                      src="@/assets/img/chair_TG.png"
                       alt=""
                       class="relative"
                       style="position: relative; top: -2rem"
@@ -40,7 +40,7 @@
                 <div class="flex w-full flex-col space-y-4 ">
                   <div class="h-full rounded-lg overflow-hidden hover:scale-125 hover:z-10 hover:duration-300 hover:ease-out duration-200 entering4">
                     <img
-                      src="~assets/img/Shrine_lamp.png"
+                      src="@assets/img/Shrine_lamp.png"
                       alt=""
                       style="position: relative; top: -1rem"
                       class="hover:absolute"
